@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VideoSearch</string>
+    <string name="menu_main">Main</string>
+    <string name="menu_favorites">Favorites</string>
+</resources>
