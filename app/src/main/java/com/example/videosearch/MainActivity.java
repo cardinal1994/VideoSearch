@@ -4,7 +4,6 @@ import android.content.Context;
 import android.net.ConnectivityManager;
 import android.os.Bundle;
 import android.view.MenuItem;
-import android.widget.EditText;
 import android.widget.Toast;
 
 import androidx.annotation.NonNull;
